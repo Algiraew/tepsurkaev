@@ -27,8 +27,14 @@
 ### Connect with me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-3475ff?style=for-the-badge&logo=telegram&logoColor)]()
-[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/tepsurkaev.js/)
-![Mail](https://img.shields.io/badge/hamzat20031996@mail.ru-orange?style=for-the-badge&logo=mail.ru&logoColor)
+[![Instagram](https://img.shields.io/badge/Instagram-aqua?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/tepsurkaev.js/)
+![Mail](https://img.shields.io/badge/hamzat20031996@gmail.ru-orange?style=for-the-badge&logo=mail.ru&logoColor)
+
+## My last works:
+
+####Сайт для менторов - <a href="https://github.com/tepsurkaev/tutor-app">Код</a> | <a href="https://mentor-mern-app.herokuapp.com/">Демо</a>
+#### Сайт по продажи воды - <a href="https://github.com/tepsurkaev/solo-project">Код</a> | <a href="https://github.com/tepsurkaev/solo-project">Демо - Чтобы запустить приложение надо склонировать репозиторий и запустить локально</a>
+
 
 
 
