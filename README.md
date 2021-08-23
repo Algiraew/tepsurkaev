@@ -33,7 +33,7 @@
 
 <hr/>
 
-#### Сольный проект по продажи воды - <a href="https://github.com/tepsurkaev/solo-project">Код</a> | <a href="https://github.com/tepsurkaev/solo-project">Демо - Чтобы запустить приложение надо склонировать репозиторий и запустить локально</a>
+#### Сольный проект по продажи воды - <a href="https://github.com/tepsurkaev/solo-project">Код</a> | <a href="https://github.com/tepsurkaev/solo-project">Демо</a>
 
 
 
