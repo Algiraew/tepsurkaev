@@ -20,7 +20,6 @@
 ![Handlebars](https://img.shields.io/badge/HANDLEBARS-orange?style=for-the-badge&logo=handlebars&logoColor=green)
 ![MongoDB](https://img.shields.io/badge/MONGODB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=green)
 ![ESLint](https://img.shields.io/badge/ESLint-grey?style=for-the-badge&logo=eslint&logoColor)
-![Airbnb](https://img.shields.io/badge/AIRBNB-black?style=for-the-badge&logo=airbnb&logoColor)
 ![Prettier](https://img.shields.io/badge/PRETTIER-black?style=for-the-badge&logo=PRETTIER&logoColor)
 ![Postman](https://img.shields.io/badge/POSTMAN-DB9D47?style=for-the-badge&logo=postman&logoColor)
 
