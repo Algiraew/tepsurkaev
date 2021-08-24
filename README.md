@@ -29,7 +29,7 @@
 
 ## My last works:
 
-#### Групповой проект для менторов - <a href="https://github.com/tepsurkaev/tutor-app">Код</a> | <a href="https://mentor-mern-app.herokuapp.com/">Демо</a>
+#### Групповой проект для менторов - <a href="https://github.com/tepsurkaev/tutor-app/tree/hamzat">Код</a> | <a href="https://mentor-mern-app.herokuapp.com/">Демо</a>
 
 <hr/>
 
