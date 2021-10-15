@@ -22,6 +22,8 @@
 ![ESLint](https://img.shields.io/badge/ESLint-grey?style=for-the-badge&logo=eslint&logoColor)
 ![Prettier](https://img.shields.io/badge/PRETTIER-black?style=for-the-badge&logo=PRETTIER&logoColor)
 ![Postman](https://img.shields.io/badge/POSTMAN-DB9D47?style=for-the-badge&logo=postman&logoColor)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-a5c0e6?style=for-the-badge&logo=postgresql&logoColor)
+![Sequelize](https://img.shields.io/badge/Sequelize-3174d4?style=for-the-badge&logo=sequelize&logoColor)
 
 ### Connect with me:
 
