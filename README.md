@@ -11,8 +11,10 @@
 ![React-Router](https://img.shields.io/badge/REACT_ROUTER-3475ff?style=for-the-badge&logo=reactrouter&logoColor)
 ![Webpack](https://img.shields.io/badge/WEBPACK-3475ff?style=for-the-badge&logo=webpack&logoColor)
 ![Material-UI](https://img.shields.io/badge/Material_UI-3475ff?style=for-the-badge&logo=materialui&logoColor)
+![Styled-Components](https://img.shields.io/badge/Styled_Components-9e0091?style=for-the-badge&logo=styled-components&logoColor)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-3d0075?style=for-the-badge&logo=bootstrap&logoColor)
 ![Redux](https://img.shields.io/badge/REDUX-3d0075?style=for-the-badge&logo=redux&logoColor)
+![Redux-Toolkit](https://img.shields.io/badge/REDUX_TOOLKIT-3d0075?style=for-the-badge&logo=redux&logoColor)
 ![Redux-Thunk](https://img.shields.io/badge/REDUX_THUNK-3d0075?style=for-the-badge&logo=redux&logoColor)
 ![Redux-Devtools](https://img.shields.io/badge/REDUX_DEVTOOLS-3d0075?style=for-the-badge&logo=redux&logoColor)
 ![NodeJS](https://img.shields.io/badge/NODEJS-green?style=for-the-badge&logo=node.js&logoColor)
@@ -24,6 +26,11 @@
 ![Postman](https://img.shields.io/badge/POSTMAN-DB9D47?style=for-the-badge&logo=postman&logoColor)
 ![PostgreSql](https://img.shields.io/badge/PostgreSql-a5c0e6?style=for-the-badge&logo=postgresql&logoColor)
 ![Sequelize](https://img.shields.io/badge/Sequelize-3174d4?style=for-the-badge&logo=sequelize&logoColor)
+
+### Learning:
+
+![VueJS](https://img.shields.io/badge/VueJS-194D33?style=for-the-badge&logo=Vue.js&logoColor)
+![TypeScript](https://img.shields.io/badge/TypeScript-5392ed?style=for-the-badge&logo=TypeScript&logoColor)
 
 ### Connect with me:
 
