@@ -40,10 +40,6 @@
 
 #### Групповой проект для менторов - <a href="https://github.com/tepsurkaev/tutor-app/tree/hamzat">Код</a> | <a href="https://mentor-mern-app.herokuapp.com/">Демо</a>
 
-<hr/>
-
-#### Сольный проект по продажи воды - <a href="https://github.com/tepsurkaev/solo-project">Код</a> | <a href="https://github.com/tepsurkaev/solo-project">Демо</a>
-
 
 
 
