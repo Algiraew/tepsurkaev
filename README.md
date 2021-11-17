@@ -35,7 +35,7 @@
 ### Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/tepsurkaev.js/)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor)](t.me/tepsurkaev_js)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor)](https://t.me/tepsurkaev_js)
 
 ## My last works:
 
