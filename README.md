@@ -1,6 +1,6 @@
-### Hi everyone 👋 I'm a beginner fullstack developer. I've finished my studying in Intocode organization.
+### Hi everyone 👋 I'm a fullstack developer. I finished my studying in Intocode organization almost one year ago.
 
-### My working stack is MERN.
+### My working stack is MERN and PERN.
 
 ### Languages and Tools:
 
@@ -35,6 +35,7 @@
 ### Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/tepsurkaev.js/)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor)](t.me/tepsurkaev_js)
 
 ## My last works:
 
